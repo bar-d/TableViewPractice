@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  tableViewPrac
 //
-//  Created by 이예은 on 2022/06/13.
+//  Created by bard on 2022/06/13.
 //
 
 import UIKit
